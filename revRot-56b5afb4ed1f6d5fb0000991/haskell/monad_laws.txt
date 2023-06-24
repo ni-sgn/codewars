@@ -1,0 +1,50 @@
+Monad laws:
+
+1.Left Identyty:
+return a >>= f = f a 
+
+2.Right Identity:
+m a >>= return = m a
+
+3.Associativity:
+(m a >>= f) >>= g = m a >>= (\x -> f x >>= g)
+
+In lambda calculus "computed" basically means replaced !
+
+In Do notation:
+
+1.Left Identity:
+do{
+  x <- return a
+  f x
+  }
+=
+do{
+  f a
+}
+
+2.Right Identity:
+do{
+  x <- m a
+  return x
+  }
+=
+do{
+  m a
+  }
+
+3.Associativity:
+do{
+  y <- do{
+         x <- m;
+	 f x
+	 }
+  g y
+  }
+=
+do { x <- m;
+     do{ y <- f x;
+     	 g y
+        }
+   }
+
