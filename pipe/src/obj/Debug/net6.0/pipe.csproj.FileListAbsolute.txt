@@ -1,0 +1,15 @@
+/home/nika/src/personal/codewars/pipe/src/bin/Debug/net6.0/pipe
+/home/nika/src/personal/codewars/pipe/src/bin/Debug/net6.0/pipe.deps.json
+/home/nika/src/personal/codewars/pipe/src/bin/Debug/net6.0/pipe.runtimeconfig.json
+/home/nika/src/personal/codewars/pipe/src/bin/Debug/net6.0/pipe.dll
+/home/nika/src/personal/codewars/pipe/src/bin/Debug/net6.0/pipe.pdb
+/home/nika/src/personal/codewars/pipe/src/obj/Debug/net6.0/pipe.csproj.AssemblyReference.cache
+/home/nika/src/personal/codewars/pipe/src/obj/Debug/net6.0/pipe.GeneratedMSBuildEditorConfig.editorconfig
+/home/nika/src/personal/codewars/pipe/src/obj/Debug/net6.0/pipe.AssemblyInfoInputs.cache
+/home/nika/src/personal/codewars/pipe/src/obj/Debug/net6.0/pipe.AssemblyInfo.cs
+/home/nika/src/personal/codewars/pipe/src/obj/Debug/net6.0/pipe.csproj.CoreCompileInputs.cache
+/home/nika/src/personal/codewars/pipe/src/obj/Debug/net6.0/pipe.dll
+/home/nika/src/personal/codewars/pipe/src/obj/Debug/net6.0/refint/pipe.dll
+/home/nika/src/personal/codewars/pipe/src/obj/Debug/net6.0/pipe.pdb
+/home/nika/src/personal/codewars/pipe/src/obj/Debug/net6.0/pipe.genruntimeconfig.cache
+/home/nika/src/personal/codewars/pipe/src/obj/Debug/net6.0/ref/pipe.dll

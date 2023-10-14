@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+iNkq23qZA00P7RzXU2HpYO78rYI9Ze8ON8SP4YE6hMxdu0lJ8CgCVSYx5i1Cgvfdjyzv3X3tEWdgfyqAT0jVg==",
+  "success": true,
+  "projectFilePath": "/home/nika/src/personal/codewars/manager/src/server/api/api.csproj",
+  "expectedPackageFiles": [
+    "/home/nika/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/nika/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/nika/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/nika/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
