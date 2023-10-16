@@ -1,0 +1,12 @@
+/home/nika/src/personal/codewars/manager/src/server/domain/bin/Debug/net6.0/domain.deps.json
+/home/nika/src/personal/codewars/manager/src/server/domain/bin/Debug/net6.0/domain.dll
+/home/nika/src/personal/codewars/manager/src/server/domain/bin/Debug/net6.0/domain.pdb
+/home/nika/src/personal/codewars/manager/src/server/domain/obj/Debug/net6.0/domain.csproj.AssemblyReference.cache
+/home/nika/src/personal/codewars/manager/src/server/domain/obj/Debug/net6.0/domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/nika/src/personal/codewars/manager/src/server/domain/obj/Debug/net6.0/domain.AssemblyInfoInputs.cache
+/home/nika/src/personal/codewars/manager/src/server/domain/obj/Debug/net6.0/domain.AssemblyInfo.cs
+/home/nika/src/personal/codewars/manager/src/server/domain/obj/Debug/net6.0/domain.csproj.CoreCompileInputs.cache
+/home/nika/src/personal/codewars/manager/src/server/domain/obj/Debug/net6.0/domain.dll
+/home/nika/src/personal/codewars/manager/src/server/domain/obj/Debug/net6.0/refint/domain.dll
+/home/nika/src/personal/codewars/manager/src/server/domain/obj/Debug/net6.0/domain.pdb
+/home/nika/src/personal/codewars/manager/src/server/domain/obj/Debug/net6.0/ref/domain.dll

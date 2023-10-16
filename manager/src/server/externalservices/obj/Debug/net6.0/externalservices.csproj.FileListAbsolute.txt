@@ -1,0 +1,12 @@
+/home/nika/src/personal/codewars/manager/src/server/externalservices/bin/Debug/net6.0/externalservices.deps.json
+/home/nika/src/personal/codewars/manager/src/server/externalservices/bin/Debug/net6.0/externalservices.dll
+/home/nika/src/personal/codewars/manager/src/server/externalservices/bin/Debug/net6.0/externalservices.pdb
+/home/nika/src/personal/codewars/manager/src/server/externalservices/obj/Debug/net6.0/externalservices.csproj.AssemblyReference.cache
+/home/nika/src/personal/codewars/manager/src/server/externalservices/obj/Debug/net6.0/externalservices.GeneratedMSBuildEditorConfig.editorconfig
+/home/nika/src/personal/codewars/manager/src/server/externalservices/obj/Debug/net6.0/externalservices.AssemblyInfoInputs.cache
+/home/nika/src/personal/codewars/manager/src/server/externalservices/obj/Debug/net6.0/externalservices.AssemblyInfo.cs
+/home/nika/src/personal/codewars/manager/src/server/externalservices/obj/Debug/net6.0/externalservices.csproj.CoreCompileInputs.cache
+/home/nika/src/personal/codewars/manager/src/server/externalservices/obj/Debug/net6.0/externalservices.dll
+/home/nika/src/personal/codewars/manager/src/server/externalservices/obj/Debug/net6.0/refint/externalservices.dll
+/home/nika/src/personal/codewars/manager/src/server/externalservices/obj/Debug/net6.0/externalservices.pdb
+/home/nika/src/personal/codewars/manager/src/server/externalservices/obj/Debug/net6.0/ref/externalservices.dll

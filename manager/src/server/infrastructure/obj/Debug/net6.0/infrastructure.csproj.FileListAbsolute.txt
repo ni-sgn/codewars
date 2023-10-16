@@ -1,0 +1,15 @@
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/bin/Debug/net6.0/infrastructure.deps.json
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/bin/Debug/net6.0/infrastructure.dll
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/bin/Debug/net6.0/infrastructure.pdb
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/bin/Debug/net6.0/domain.dll
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/bin/Debug/net6.0/domain.pdb
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/infrastructure.csproj.AssemblyReference.cache
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/infrastructure.AssemblyInfoInputs.cache
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/infrastructure.AssemblyInfo.cs
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/infrastructure.csproj.CoreCompileInputs.cache
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/infrastructure.csproj.CopyComplete
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/infrastructure.dll
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/refint/infrastructure.dll
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/infrastructure.pdb
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/ref/infrastructure.dll
