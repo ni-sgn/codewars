@@ -15,7 +15,6 @@
           "Swashbuckle.AspNetCore": "6.5.0",
           "application": "1.0.0",
           "dataaccess": "1.0.0",
-          "domain": "1.0.0",
           "infrastructure": "1.0.0"
         },
         "runtime": {
@@ -694,9 +693,7 @@
       "application/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.12",
-          "dataaccess": "1.0.0",
-          "domain": "1.0.0",
-          "infrastructure": "1.0.0"
+          "domain": "1.0.0"
         },
         "runtime": {
           "application.dll": {}
@@ -706,8 +703,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.12",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.12",
-          "domain": "1.0.0",
-          "infrastructure": "1.0.0"
+          "application": "1.0.0",
+          "domain": "1.0.0"
         },
         "runtime": {
           "dataaccess.dll": {}
@@ -720,6 +717,7 @@
       },
       "infrastructure/1.0.0": {
         "dependencies": {
+          "application": "1.0.0",
           "domain": "1.0.0"
         },
         "runtime": {

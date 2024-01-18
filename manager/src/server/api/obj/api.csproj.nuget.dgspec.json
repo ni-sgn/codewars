@@ -32,9 +32,6 @@
               "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj": {
                 "projectPath": "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj"
               },
-              "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj": {
-                "projectPath": "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj"
-              },
               "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj": {
                 "projectPath": "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj"
               }
@@ -121,14 +118,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj": {
-                "projectPath": "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj"
-              },
               "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj": {
                 "projectPath": "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj"
-              },
-              "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj": {
-                "projectPath": "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj"
               }
             }
           }
@@ -190,11 +181,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "/home/nika/src/personal/codewars/manager/src/server/application/application.csproj": {
+                "projectPath": "/home/nika/src/personal/codewars/manager/src/server/application/application.csproj"
+              },
               "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj": {
                 "projectPath": "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj"
-              },
-              "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj": {
-                "projectPath": "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj"
               }
             }
           }
@@ -313,6 +304,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "/home/nika/src/personal/codewars/manager/src/server/application/application.csproj": {
+                "projectPath": "/home/nika/src/personal/codewars/manager/src/server/application/application.csproj"
+              },
               "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj": {
                 "projectPath": "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj"
               }

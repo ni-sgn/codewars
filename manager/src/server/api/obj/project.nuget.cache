@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QmQFOsmMUcXlkC3G4T7A8yUQkNGl6/K5iStJVy5R13093NocnZK1J2ATmsFt6/YR9hzyvj5dLis8hfykf5oQfQ==",
+  "dgSpecHash": "ffQu10mYFxzd5HIyoUCRaA2gb31s12HBFTXYuvNxjs9SE8dk5eMa9zisquO52vTGjHGKzl1ZWybU0/PSuxRfBQ==",
   "success": true,
   "projectFilePath": "/home/nika/src/personal/codewars/manager/src/server/api/api.csproj",
   "expectedPackageFiles": [

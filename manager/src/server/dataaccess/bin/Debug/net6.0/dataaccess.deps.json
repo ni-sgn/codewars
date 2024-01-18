@@ -10,8 +10,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.12",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.12",
-          "domain": "1.0.0",
-          "infrastructure": "1.0.0"
+          "application": "1.0.0",
+          "domain": "1.0.0"
         },
         "runtime": {
           "dataaccess.dll": {}
@@ -556,17 +556,18 @@
           }
         }
       },
-      "domain/1.0.0": {
-        "runtime": {
-          "domain.dll": {}
-        }
-      },
-      "infrastructure/1.0.0": {
+      "application/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.12",
           "domain": "1.0.0"
         },
         "runtime": {
-          "infrastructure.dll": {}
+          "application.dll": {}
+        }
+      },
+      "domain/1.0.0": {
+        "runtime": {
+          "domain.dll": {}
         }
       }
     }
@@ -955,12 +956,12 @@
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
-    "domain/1.0.0": {
+    "application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "infrastructure/1.0.0": {
+    "domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -964,6 +964,20 @@
           }
         }
       },
+      "application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.12",
+          "domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/application.dll": {}
+        }
+      },
       "domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -972,19 +986,6 @@
         },
         "runtime": {
           "bin/placeholder/domain.dll": {}
-        }
-      },
-      "infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/infrastructure.dll": {}
         }
       }
     }
@@ -2636,23 +2637,23 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "application/1.0.0": {
+      "type": "project",
+      "path": "../application/application.csproj",
+      "msbuildProject": "../application/application.csproj"
+    },
     "domain/1.0.0": {
       "type": "project",
       "path": "../domain/domain.csproj",
       "msbuildProject": "../domain/domain.csproj"
-    },
-    "infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../infrastructure/infrastructure.csproj",
-      "msbuildProject": "../infrastructure/infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore >= 7.0.12",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.12",
-      "domain >= 1.0.0",
-      "infrastructure >= 1.0.0"
+      "application >= 1.0.0",
+      "domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2680,11 +2681,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "/home/nika/src/personal/codewars/manager/src/server/application/application.csproj": {
+              "projectPath": "/home/nika/src/personal/codewars/manager/src/server/application/application.csproj"
+            },
             "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj": {
               "projectPath": "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj"
-            },
-            "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj": {
-              "projectPath": "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj"
             }
           }
         }

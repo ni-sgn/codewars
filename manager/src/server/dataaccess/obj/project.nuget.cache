@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SE89hNi70SPpPnNmQinMy8l8XMJEe4Njhn11rdAmNN76tG+I8sWOW5Wy+rb5qAxP/Uf33taJYDN7oOGxi2zCfQ==",
+  "dgSpecHash": "gwM0nzuIJQp+1AJZpXoAH2RA+0mrXzAs5U4ttix7Y3tjjr+S67e0llJL79sGJM+zzjqk23O45tQRTAJ4Y+uF8w==",
   "success": true,
   "projectFilePath": "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj",
   "expectedPackageFiles": [

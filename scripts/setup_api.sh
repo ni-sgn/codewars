@@ -57,5 +57,7 @@ dotnet add reference ../domain/domain.csproj
 cd ../api
 dotnet add reference ../domain/domain.csproj
 dotnet add reference ../application/application.csproj
+dotnet add reference ../dataaccess/dataaccess.csproj
+dotnet add reference ../infrastructure/infrastructure.csproj
 
 

@@ -1153,9 +1153,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.12",
-          "dataaccess": "1.0.0",
-          "domain": "1.0.0",
-          "infrastructure": "1.0.0"
+          "domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/application.dll": {}
@@ -1170,8 +1168,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.12",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.12",
-          "domain": "1.0.0",
-          "infrastructure": "1.0.0"
+          "application": "1.0.0",
+          "domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/dataaccess.dll": {}
@@ -1194,6 +1192,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "application": "1.0.0",
           "domain": "1.0.0"
         },
         "compile": {
@@ -3393,7 +3392,6 @@
       "Swashbuckle.AspNetCore >= 6.5.0",
       "application >= 1.0.0",
       "dataaccess >= 1.0.0",
-      "domain >= 1.0.0",
       "infrastructure >= 1.0.0"
     ]
   },
@@ -3427,9 +3425,6 @@
             },
             "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj": {
               "projectPath": "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj"
-            },
-            "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj": {
-              "projectPath": "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj"
             },
             "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj": {
               "projectPath": "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj"

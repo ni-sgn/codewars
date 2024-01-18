@@ -13,3 +13,5 @@
 /home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/refint/infrastructure.dll
 /home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/infrastructure.pdb
 /home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/Debug/net6.0/ref/infrastructure.dll
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/bin/Debug/net6.0/application.dll
+/home/nika/src/personal/codewars/manager/src/server/infrastructure/bin/Debug/net6.0/application.pdb

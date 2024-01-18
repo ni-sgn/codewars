@@ -1,28 +1,46 @@
 module Main exposing (..)
 
 import Browser
-import Html exposing (Html, button, div, text)
+import Html exposing (Html, button, div, text, p)
 import Html.Events exposing (onClick)
+import Http
 
+main : Program () Model Msg
 main =
-  Browser.sandbox { init = 0, update = update, view = view }
+  Browser.element {
+    init = \flags -> ( "Click to recieve your name", Cmd.none )
+    , view = view
+    , update = update
+    , subscriptions = \_ -> Sub.none
+    }
 
+type alias Model = String
+type Msg = SendHttpRequest | DataRecieved (Result Http.Error String)
 
-type alias Model = Int
-type Msg = Increment | Decrement
-
-
+update : Msg -> Model -> (Model, Cmd Msg)
 update msg model =
   case msg of
-    Increment ->
-      model + 1
+    DataRecieved result->
+      case result of
+        Ok str -> (str, Cmd.none) 
+        Err sm -> ("Some error happened", Cmd.none)
+    SendHttpRequest ->
+      (model, getUser)
 
-    Decrement ->
-      model - 1
-
+view : Model -> Html Msg
 view model =
   div []
-    [ button [ onClick Decrement ] [ text "-" ]
-    , div [] [ text (String.fromInt model) ]
-    , button [ onClick Increment ] [ text "+" ]
+    [
+      button [onClick SendHttpRequest] [text "Click to Recieve data"] 
+      ,p [] [ text model ]  
     ]
+
+url : String
+url = "http://localhost:80/get-user"
+
+getUser : Cmd Msg
+getUser = 
+  Http.get {
+    url = url
+    , expect = Http.expectString DataRecieved
+    }

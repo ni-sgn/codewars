@@ -2,9 +2,7 @@
 /home/nika/src/personal/codewars/manager/src/server/dataaccess/bin/Debug/net6.0/dataaccess.dll
 /home/nika/src/personal/codewars/manager/src/server/dataaccess/bin/Debug/net6.0/dataaccess.pdb
 /home/nika/src/personal/codewars/manager/src/server/dataaccess/bin/Debug/net6.0/domain.dll
-/home/nika/src/personal/codewars/manager/src/server/dataaccess/bin/Debug/net6.0/infrastructure.dll
 /home/nika/src/personal/codewars/manager/src/server/dataaccess/bin/Debug/net6.0/domain.pdb
-/home/nika/src/personal/codewars/manager/src/server/dataaccess/bin/Debug/net6.0/infrastructure.pdb
 /home/nika/src/personal/codewars/manager/src/server/dataaccess/obj/Debug/net6.0/dataaccess.csproj.AssemblyReference.cache
 /home/nika/src/personal/codewars/manager/src/server/dataaccess/obj/Debug/net6.0/dataaccess.GeneratedMSBuildEditorConfig.editorconfig
 /home/nika/src/personal/codewars/manager/src/server/dataaccess/obj/Debug/net6.0/dataaccess.AssemblyInfoInputs.cache
@@ -15,3 +13,5 @@
 /home/nika/src/personal/codewars/manager/src/server/dataaccess/obj/Debug/net6.0/refint/dataaccess.dll
 /home/nika/src/personal/codewars/manager/src/server/dataaccess/obj/Debug/net6.0/dataaccess.pdb
 /home/nika/src/personal/codewars/manager/src/server/dataaccess/obj/Debug/net6.0/ref/dataaccess.dll
+/home/nika/src/personal/codewars/manager/src/server/dataaccess/bin/Debug/net6.0/application.dll
+/home/nika/src/personal/codewars/manager/src/server/dataaccess/bin/Debug/net6.0/application.pdb

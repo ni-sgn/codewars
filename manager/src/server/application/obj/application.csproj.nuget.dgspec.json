@@ -26,14 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj": {
-                "projectPath": "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj"
-              },
               "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj": {
                 "projectPath": "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj"
-              },
-              "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj": {
-                "projectPath": "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj"
               }
             }
           }
@@ -49,76 +43,6 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.12, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/home/nika/.dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj",
-        "projectName": "dataaccess",
-        "projectPath": "/home/nika/src/personal/codewars/manager/src/server/dataaccess/dataaccess.csproj",
-        "packagesPath": "/home/nika/.nuget/packages/",
-        "outputPath": "/home/nika/src/personal/codewars/manager/src/server/dataaccess/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/home/nika/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj": {
-                "projectPath": "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj"
-              },
-              "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj": {
-                "projectPath": "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.12, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.12, )"
             }
@@ -165,63 +89,6 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/home/nika/.dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj",
-        "projectName": "infrastructure",
-        "projectPath": "/home/nika/src/personal/codewars/manager/src/server/infrastructure/infrastructure.csproj",
-        "packagesPath": "/home/nika/.nuget/packages/",
-        "outputPath": "/home/nika/src/personal/codewars/manager/src/server/infrastructure/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/home/nika/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj": {
-                "projectPath": "/home/nika/src/personal/codewars/manager/src/server/domain/domain.csproj"
-              }
-            }
           }
         },
         "warningProperties": {
